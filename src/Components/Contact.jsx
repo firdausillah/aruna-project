@@ -2,7 +2,7 @@ import React from 'react'
 
 function Contact() {
   return (
-    <section id="home" className="py-28 md:py-36">
+    <section id="contact" className="py-28 md:py-36">
         <div className="container">
             <div className="relative flex flex-wrap justify-center">
                 <div className="w-ful self-center px-4 text-center">

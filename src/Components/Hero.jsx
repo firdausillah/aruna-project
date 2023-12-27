@@ -21,7 +21,7 @@ function Hero() {
                     <p className="font-light text-sm text-primary mb-10 leading-tight lg:text-lg">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas ad in quibusdam ipsam, fuga reprehenderit unde sit quia expedita.</p>
                     <a href="#contact" className="text-base font-semibold text-white bg-primary py-3 px-8 rounded-lg hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out">Hire me</a>
                     <div className="lg:absolute mt-12 bottom-0">
-                        <SocialMedia />
+                        <SocialMedia color='secondary' />
                     </div>
                 </div>
                 <div className="w-full self-end relative px-4 lg:w-1/2">
