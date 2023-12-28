@@ -3,7 +3,7 @@
     "builds": [
         {
             "src": "index.html", // Gantilah dengan file entry point Vite Anda
-            "use": "@sveltejs/adapter-static" // Gantilah dengan adapter yang sesuai dengan proyek Anda
+            "use": "@sveltejs/adapter-static" // Gantilah dengan adapter yang sesuai dengan proyek Andaa
         }
     ],
     "routes": [
