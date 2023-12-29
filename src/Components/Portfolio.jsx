@@ -1,6 +1,7 @@
 import React from 'react'
 import projects from '../lib/data';
 
+
 function Portfolio() {
 
   return (
