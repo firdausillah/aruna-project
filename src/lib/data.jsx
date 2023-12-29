@@ -6,7 +6,7 @@ const Projects = [
     "github": "https://github.com/firdausillah/15-vidio-clone",
     "demo": "https://vidio-clone.vercel.app",
     "year": "2023",
-    "img": "assets/portfolio/vidio.png"
+    "img": "assets/portfolio/vidio.gif"
   },
   {
     "title": "School Web Profile",
@@ -14,7 +14,7 @@ const Projects = [
     "github": "https://github.com/firdausillah/master-ppdb",
     "demo": "https://smkpgripesanggaran.sch.id",
     "year": "2022",
-    "img": "assets/portfolio/smkgrisa_front.png"
+    "img": "assets/portfolio/smkgrisa_front.gif"
   }
 ]
 
