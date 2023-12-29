@@ -1,7 +1,7 @@
 import React from 'react'
 import Typewriter from 'typewriter-effect';
 import SocialMedia from './SocialMedia';
-import profile from '../assets/profile.png'
+// import profile from 'assets/profile.png'
 
 function Hero() {
   return (
@@ -27,7 +27,7 @@ function Hero() {
                 </div>
                 <div className="w-full self-end relative px-4 lg:w-1/2">
                     <div className="mt-10 relative z-50 lg:mt-0 lg:right-0">
-                        <img src={profile} alt="profile" className="md:max-w-[450px] max-w-full mx-auto"/>
+                        <img src="assets/profile.png" alt="profile" className="md:max-w-[450px] max-w-full mx-auto"/>
                         <span className="absolute -bottom-0 -z-10 left-1/2 -translate-x-1/2 sm:scale-150 sm:bottom-0 md:top-32 lg:-bottom-0">
                             <svg width="300" height="300" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                 <path fill="#01687b"

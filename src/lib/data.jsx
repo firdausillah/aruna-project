@@ -1,5 +1,3 @@
-import vidio from '../assets/portfolio/vidio.png';
-import smkgrisa_front from '../assets/portfolio/smkgrisa_front.png';
 
 const Projects = [
   {
@@ -8,7 +6,7 @@ const Projects = [
     "github": "https://github.com/firdausillah/15-vidio-clone",
     "demo": "https://vidio-clone.vercel.app",
     "year": "2023",
-    "img": {vidio}
+    "img": "assets/portfolio/vidio.png"
   },
   {
     "title": "School Web Profile",
@@ -16,7 +14,7 @@ const Projects = [
     "github": "https://github.com/firdausillah/master-ppdb",
     "demo": "https://smkpgripesanggaran.sch.id",
     "year": "2022",
-    "img": {smkgrisa_front}
+    "img": "assets/portfolio/smkgrisa_front.png"
   }
 ]
 
