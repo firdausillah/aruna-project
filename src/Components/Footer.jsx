@@ -7,7 +7,7 @@ function Footer() {
         <div className='container mx-auto flex flex-wrap justify-center sm:justify-between'>
             <p className='text-primary text-sm italic my-auto'>Typed With <span className='font-reguler'>🩷</span> by Aruna Project</p>
             <div className=' scale-75'>
-                <SocialMedia color='primary' />
+                <SocialMedia color='text-primary' />
             </div>
         </div>
     </section>

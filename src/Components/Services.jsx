@@ -1,11 +1,11 @@
 import React from 'react'
-import projects from '../lib/projects';
+import projects from '../lib/data';
 
 
-function Portfolio() {
+function Services() {
 
   return (
-    <section id='portfolio' className='py-28 bg-primary dark:bg-dark relative z-10'>
+    <section id='services' className='py-28 bg-primary dark:bg-dark relative z-10'>
       <div className="container text-center">
         <h3 className='font-bold text-xl text-light'>Portfolio</h3>
         <div className="flex flex-wrap justify-center mt-5 gap-4 w-full">
@@ -43,4 +43,4 @@ function Portfolio() {
   )
 }
 
-export default Portfolio
+export default Services
