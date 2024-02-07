@@ -1,6 +1,14 @@
 
 const Projects = [
   {
+    "title": "Aruna Movie App (on progress)",
+    "build_with": "React Js, Tailwind Css, Next Js, Axios (API)",
+    "github": "https://github.com/firdausillah/aruna-movie-app",
+    "demo": "https://aruna-movie-app.vercel.app/",
+    "year": "2024",
+    "img": "assets/portfolio/aruna_movie.gif"
+  },
+  {
     "title": "Vidio.com Clone",
     "build_with": "React Js, Tailwind Css",
     "github": "https://github.com/firdausillah/15-vidio-clone",
