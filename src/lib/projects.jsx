@@ -4,7 +4,7 @@ const Projects = [
     "title": "Aruna Resto App",
     "build_with": "React Js, Tailwind Css, Next Js, Typescript",
     "github": "https://github.com/firdausillah/aruna-resto-app",
-    "demo": "https://aruna-resto-app.vercel.app/",
+    "demo": "https://aruna-resto.vercel.app/",
     "year": "2024",
     "img": "assets/portfolio/restaurant-pos-system.gif"
   },
